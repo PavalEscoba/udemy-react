@@ -1,16 +1,11 @@
-.App {
-  text-align: center;
-}
-.app{
-  color: green;
-}
 .red{
   color: crimson;
 }
 .bold{
   font-weight: bold;
 }
-.App button{
+
+.Cockpit button{
   background-color: seagreen;
   color: #fff;
   font: inherit;
@@ -19,15 +14,15 @@
   padding: 0.5rem;
   cursor: pointer;
 }
-.App button:hover{
+.Cockpit button:hover{
   background-color: lightgreen;
   color: beige;
 }
-.App button.Red{
+.Cockpit button.Red{
   background-color: crimson;
   color: #fff;
 }
-.App button.Red:hover{
+.Cockpit button.Red:hover{
   background-color: salmon;
   color: beige;
 }
