@@ -8,7 +8,7 @@ class App extends Component {
       <div>
         <Layout> 
           <p>
-            Test if layout renders.
+            Test if layout rerenders.
           </p>
           <BurgerBuilder />
         </Layout>
